@@ -1,0 +1,15 @@
+Flask
+Flask-CORS
+python-dotenv==1.2.2
+pydantic==2.13.4
+langchain
+langchain-community
+langchain-google-genai
+langchain-ollama==1.1.0
+langchain-core==1.4.0
+langchain-chroma
+chromadb
+chromadb==1.5.9
+ollama==0.6.2
+requests==2.34.2
+

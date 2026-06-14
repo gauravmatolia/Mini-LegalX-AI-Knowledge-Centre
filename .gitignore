@@ -1,0 +1,7 @@
+/venv
+.env
+chroma_db
+chroma_databases
+__pycache__
+node_modules
+topics_cache.json
